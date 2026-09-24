@@ -23,14 +23,13 @@ repository               : "dhruvmenon2003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "visa photo.jpg"
+  name             : "Dhruv Menon"
+  pronouns         : None(Agender)  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  Studying in?     : "University of Pennsylvania"
+  email            : "mynameisdhruvmenon@gmail.com" 
 
   # Academic websites
   academia         : # URL
